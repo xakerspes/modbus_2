@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="08ff83ec-36f6-40f9-a7a3-69c80e66dda9" name="RuVDS">
-        <fileTransfer rootFolder="/root/modbus_3" accessType="SFTP" host="194.87.147.235" port="22" sshConfigId="92ba592f-356d-42d2-a386-95bba1488be0" sshConfig="RuVDS">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="194.87.147.235" port="22" sshConfigId="92ba592f-356d-42d2-a386-95bba1488be0" sshConfig="RuVDS">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
